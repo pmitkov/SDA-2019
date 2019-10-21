@@ -1,0 +1,5 @@
+1. https://atcoder.jp/contests/abc142/tasks/abc142_c EASY
+2. https://codeforces.com/problemset/problem/1174/B MEDIUM
+3. https://www.hackerrank.com/challenges/find-the-median/problem EASY
+4. https://www.hackerrank.com/challenges/closest-numbers/problem EASY
+5. https://codeforces.com/problemset/problem/1189/B MEDIUM
